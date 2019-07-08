@@ -8,3 +8,4 @@ Editing in Dev and merge to master
 This is Dev branch and editing in Dev
 After pulling from master added few lines in QA branch
 again adding from notepad
+master move to QA
