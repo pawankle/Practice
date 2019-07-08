@@ -1,3 +1,3 @@
-This is second assignment in devops added in QA
-Need to switch to dev branch
-again updating this code
+This is second assignment in devops
+updating in QA
+
